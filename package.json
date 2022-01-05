@@ -1,5 +1,5 @@
 {
-  "name": "@IvoryTech/graphql-codegen-typescript-plugin",
+  "name": "@ivorytech/graphql-codegen-typescript-plugin",
   "version": "1.0.7",
   "description": "IvoryTech codegen plugin for GraphQL Typescript",
   "main": "index.js",
